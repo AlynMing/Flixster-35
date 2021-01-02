@@ -1,11 +1,6 @@
 # Flixster Movie App
 
-### Part 2, Final App Walkthrough GIF w/ Bonus
-<img src="https://github.com/curiousjazz77/Flixster/blob/main/FlixterWithVideoWalkthrough.gif" width=250><br>
-
-
-
-## ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Flix Part 2
+## Flix Part 2
 
 ### User Stories
 
@@ -19,7 +14,7 @@
 
 ### App Walkthrough GIF
 
-<img src="https://github.com/curiousjazz77/Flixster/blob/main/FlixsterJazz_Part2.gif" width=250><br>
+<img src="https://github.com/curiousjazz77/Flixster/blob/main/FlixterWithVideoWalkthrough.gif" width=250><br>
 
 ### Notes
 - While developing, I had a problem with the collection view. Within it, my images first appeared to be very small. I tried to make sure the image view within the cell and the collection view itself were of the appropriate sizes. But even after rewatching the video, the issue persisted. To rectify this problem, I needed to go to the collection view and change "Estimate Size" to None.
